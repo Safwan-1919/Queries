@@ -1,1 +1,2 @@
 # Queries
+new queries
